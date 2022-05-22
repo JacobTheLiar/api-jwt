@@ -7,3 +7,9 @@ model:
   role:
     table: role
     id: role_id
+  confirm:
+    table: confirm
+    id: confirm_id
+  # other config
+  user
+lock_time: 15;
